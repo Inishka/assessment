@@ -16,9 +16,8 @@ a. Preferred technology stack (submissions with other relevant technologies will
   <br />&emsp;i. Backend: Python django
   <br />&emsp;ii. Frontend: Next.js
 
-b. The tool has two primary users:
-    <br />&emsp;i. Venture capitalists - to identify related companies and investment opportunities
-    <br />&emsp;ii. Entreprenuers - to identify relevant venture capitalists, related companies and competitors
+b. The tool has one primary user:
+    <br />&emsp;i. D2C Entreprenuers - to identify relevant venture capitalists, related companies and competitors
 
 c. Tool should be interactive, allowing users to explore underlying data, such as relationships between companies and VCs.
   
