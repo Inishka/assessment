@@ -10,7 +10,7 @@ You have full creative freedom on the frontend design and any additional functio
 <br/>
 
 ### 1. Requirements
-Create a single page dashboard application to explore the neo4j data and extract userful information for the users. 
+Create a single page dashboard application to explore the neo4j data and extract useful information for the users. 
 
 a. Preferred technology stack (submissions with other relevant technologies will also be evaluated):
   <br />&emsp;i. Backend: Python django
@@ -40,7 +40,7 @@ Then, run the commend `docker compose up`
 Frontend will be accessible on http://localhost:3000<br/>
 Backend will be accessible on http://localhost:8000
 
-Further information on neo4j can be obtained through the Neo4j documenation: https://neo4j.com/docs/
+Further information on neo4j can be obtained through the Neo4j documentation: https://neo4j.com/docs/
 
 <br/>
 
