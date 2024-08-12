@@ -23,7 +23,7 @@ c. Tool should be interactive, allowing users to explore underlying data, such a
   
 d. Integrated insights to highlight key parameters like investment trends, competitor analysis, and market gaps.
   
-e. The tool should require the user to sumbit their email before they get access to the tool
+e. The tool should require the user to submit their email before they get access to the tool
     
 f. Scalable UI design from mobile to laptop screens
 
