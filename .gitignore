@@ -1,0 +1,3 @@
+postgres/data/
+neo4j/data
+neo4j/plugins

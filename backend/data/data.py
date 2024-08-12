@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 
-load_status = dotenv.load_dotenv("Neo4j-74c3bfa1-Created-2024-08-10.txt")
+load_status = dotenv.load_dotenv()
 if load_status is False:
     raise RuntimeError('Environment variables not loaded.')
 
@@ -61,6 +61,25 @@ def getAllNodes():
     nodes = flatten_matrix(neo_db.graph_read(nodes_query))
 
     print("Printing all nodes in graph")
+    for node in nodes:
+        print(node['name'])
+    
+    return True
+
+def getAllCompanies():
+
+    neo_db = getConnection()
+
+    nodes_query = (
+        """
+        MATCH (n:Company)
+        RETURN *
+        """
+    )
+
+    nodes = flatten_matrix(neo_db.graph_read(nodes_query))
+
+    print("Printing all company nodes in graph")
     for node in nodes:
         print(node['name'])
     

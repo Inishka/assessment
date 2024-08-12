@@ -1,0 +1,6 @@
+credentials/
+__pycache__/
+*.csv
+.DS_Store
+*staticfiles/
+*.pkl
