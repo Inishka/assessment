@@ -1,4 +1,4 @@
-## Cohesyve Aseessment 
+## Cohesyve Assessment 
 This project is part of the hiring process for the full-stack developer intern position at Cohesyve. The goal of this assessment is to evaluate your product building skills and your comfort with the underlying tech stack.
 <br/><br/>
 The provided neo4j graph contains information on 25,000 D2C companies globally along with their founders, angel investors and institutional investors. Your task is to build a web based tool that can help D2C founders identify relevant competitors and find potential investors.
