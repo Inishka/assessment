@@ -1,9 +1,11 @@
 ## Cohesyve Aseessment 
-This project is designed to leverage a neo4j graph dataset that includes detailed information about companies and venture capitalists. 
-The objective is to develop a sophisticated web-based tool that harnesses this dataset to provide valuable insights and facilitate informed decision-making for its users. 
-By utilizing the relationships and connections inherent in the dataset, the tool will enable venture capitalists to discover potential investment opportunities and related companies, while entrepreneurs can identify relevant venture capitalists, competitors, and potential collaborators. 
-The ultimate goal is to create a platform that offers dynamic exploration and visualization of the data, helping users navigate and make strategic decisions in the investment and business landscape.
-
+This project is part of the hiring process for the full-stack developer intern position at Cohesyve. The goal of this assessment is to evaluate your product building skills and your comfort with the underlying tech stack.
+<br/><br/>
+The provided neo4j graph contains information on 25,000 D2C companies globally along with their founders, angel investors and institutional investors. Your task is to build a web based tool that can help D2C founders identify relevant competitors and find potential investors.
+<br/><br/>
+You have full creative freedom on the frontend design and any additional functionality that you feel will be helpful. 
+<br/><br/>
+<b>The task should not take you more than 2 days to complete. Start by forking this repository and send us your submissions (link to your forked repo) by end of day on Aug 14 2024.</b> 
 
 <br/><br/>
 ### 1. Requirements
@@ -27,6 +29,6 @@ f. Scalable UI design from mobile to laptop screens
 
 <br/><br/>
 ### 2. Starter Project
-A starter django project is provided with the built in neo4j connector and sample neo4j queries (in the data/data.py file) for your reference.
+A starter django project is provided with the built in neo4j connector and sample neo4j queries (in the data/data.py file) for your reference. <b>Do not write/update/delete any data on the graph.</b>
 
 Further information on neo4j can be obtained through the Neo4j documenation: https://neo4j.com/docs/
