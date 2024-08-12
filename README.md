@@ -5,7 +5,7 @@ The provided neo4j graph contains information on 25,000 D2C companies globally a
 <br/><br/>
 You have full creative freedom on the frontend design and any additional functionality that you feel will be helpful. 
 <br/><br/>
-<b>The task should not take you more than 2 days to complete. Start by forking this repository and send us your submissions (link to your forked repo) by end of day on Aug 14 2024.</b> 
+<b>The task should not take you more than 2 days to complete. Start by forking this repository and send us your submissions (link to your forked repo) by end of day on Aug 15 2024.</b> 
 
 <br/><br/>
 ### 1. Requirements
