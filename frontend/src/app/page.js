@@ -3,7 +3,7 @@
 //import D2CEntrepreneurs from "@/pages/D2CEntrepreneurs";
 import CompetitorAnalysis from "@/components/CompetitorAnalysis";
 import Competitors from "@/components/Competitors";
-//import EmailSubmission from "@/components/EmailSubmission";
+import EmailSubmission from "@/components/EmailSubmission";
 import ExploreRelationships from "@/components/ExploreRelationships";
 import IdentifyVCs from "@/components/IdentifyVCs";
 import InvestmentTrends from "@/components/InvestmentTrends";
@@ -25,7 +25,7 @@ export default function Home() {
       <InvestmentTrends />
       <CompetitorAnalysis companyName="" />
       <MarketGaps />
-    {/* <EmailSubmission />  */}
+     <EmailSubmission />  
 
       {/*    <D2CEntrepreneurs />
       <CompanyList />
