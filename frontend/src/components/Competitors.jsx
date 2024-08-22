@@ -16,7 +16,7 @@ const Competitors = ({ companyName }) => {
 
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-semibold mb-4">Competitor Analysis</h2>
+      <h2 className="text-2xl text-black font-semibold mb-4">Competitor Analysis</h2>
       <ResponsiveContainer width="100%" height={400}>
         <BarChart data={competitors}>
           <CartesianGrid strokeDasharray="3 3" />

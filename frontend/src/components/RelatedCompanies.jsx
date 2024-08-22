@@ -15,12 +15,12 @@ const RelatedCompanies = () => {
 
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-semibold mb-4">Related Companies</h2>
+      <h2 className="text-2xl  text-black font-semibold mb-4">Related Companies</h2>
       <table className="min-w-full table-auto">
         <thead>
           <tr>
-            <th className="px-4 py-2">Company Name</th>
-            <th className="px-4 py-2">Industry</th>
+            <th className="px-4 text-black py-2">Company Name</th>
+            <th className="px-4  text-black py-2">Industry</th>
           </tr>
         </thead>
         <tbody>

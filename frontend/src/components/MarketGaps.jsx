@@ -19,7 +19,7 @@ const MarketGaps = () => {
   
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-semibold mb-4">Market Gaps</h2>
+      <h2 className="text-2xl text-black font-semibold mb-4">Market Gaps</h2>
       <div className="w-full h-[400px]">
         <HeatMap
           xLabels={gaps.xLabels}

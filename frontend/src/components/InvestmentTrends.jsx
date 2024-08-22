@@ -16,7 +16,7 @@ const InvestmentTrends = () => {
 
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-semibold mb-4">Investment Trends</h2>
+      <h2 className="text-2xl text-black font-semibold mb-4">Investment Trends</h2>
       <ResponsiveContainer width="100%" height={400}>
         <LineChart data={trends}>
           <CartesianGrid strokeDasharray="3 3" />
